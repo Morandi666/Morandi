@@ -1,31 +1,37 @@
-# Morandi 👋
-
-Soft hues, deep thoughts.
+# Hi, I'm Morandi 👋
 
 🎓 Data Science Undergraduate  
-💻 Exploring Java, Python, Hadoop, and Big Data  
-📚 Building projects step by step
+💻 Learning Java, Python, Hadoop and Big Data  
 
-## About Me
+---
 
-I’m a student majoring in Data Science & Big Data Technology.  
-I enjoy turning coursework, experiments, and ideas into real projects.
+## 🔧 Skills
 
-## Current Focus
+Python  
+Java  
+Hadoop  
+SQL  
+Data Analysis  
 
+---
+
+## 📚 Currently Learning
+
+Big Data Platform Design  
+Computer Networks  
+NoSQL Databases  
+Data Analysis with Python  
+
+---
+
+## 🚀 Projects
+
+- Python Data Science
+- Java Network Programming
 - Big Data Platform Design
-- Java Programming
-- Python Data Analysis
-- Computer Networks
-- NoSQL and Database Practice
 
-## What You'll Find Here
+---
 
-- Course projects
-- Programming experiments
-- Notes and demos
-- Small creative builds
+## 🎯 Goal
 
-## Goal
-
-To build a clean and growing portfolio of my learning journey.
+Build a clean and growing GitHub portfolio.
