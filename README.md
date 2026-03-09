@@ -43,3 +43,22 @@ Soft hues, deep thoughts.
 ## 💡 Goal
 
 Build a clean and growing GitHub portfolio while learning new technologies.
+
+
+---
+
+## 📊 GitHub Stats
+
+![Morandi GitHub stats](https://github-readme-stats.vercel.app/api?username=Morandi-Chan&show_icons=true&theme=tokyonight)
+
+---
+
+## 🧠 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morandi-Chan&layout=compact&theme=tokyonight)
+
+---
+
+## 👁 Visitor Counter
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Morandi-Chan&color=blue)
